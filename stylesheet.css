@@ -18,12 +18,17 @@ h2 {
 
 img {
     border-radius: 50%;
-    width: 15%;
-    height: 15;
+    width: 10%;
+    height: 10%;
     border-width: 2px;
     border-style: solid;
     border-color: white;
     display: block;
     margin-left: 45%;
     margin-right: 45%;
+}
+
+#header {
+background-color: white;
+text-align: center;
 }
