@@ -1,0 +1,29 @@
+
+body {
+    background-color: darkviolet;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    display: block;
+    margin-left: 45%;
+    margin-right: 45%;
+}
