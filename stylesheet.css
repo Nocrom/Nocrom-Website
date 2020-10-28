@@ -40,3 +40,54 @@ text-align: center;
    padding: 15px;
    margin-left: 35%; 
 }
+
+
+body {
+    background-color: darkviolet;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    display: block;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+#header {
+background-color: white;
+text-align: center;
+}
+
+#list {
+   border-width: 1px;
+   border-style: solid;
+   border-color: black;
+   padding: 15px;
+   margin-left: 35%; 
+}
+
+a {
+    background-color: black;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
