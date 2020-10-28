@@ -42,9 +42,20 @@ text-align: center;
 }
 
 a {
-    background-color: black;
+    background-color:#686868;
+    box-shadow: 0 5px 0 black;
     color: white;
     padding: 0.577em 0.985em;
+    position: relative;
     text-decoration: none;
     text-transform: uppercase;
+  }
+
+  a:hover {
+background-color: #444444
+  }
+
+  a:active {
+box-shadow: none;
+top: 5px;
   }
